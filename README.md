@@ -1,6 +1,8 @@
 # Analisis Avanzado de Software ADF-1702SC8C
 
-## Alumno: Cruz Vera Elden Humberto.
+## Alumno: Cruz Vera Elden Humberto - 17211512
+
+## Equipo: Code Developers 2.0
 
 ## Asesor de la materia: Alvarez Enríquez Jaime Leonardo.
 
