@@ -13,4 +13,4 @@
 
 :hourglass_flowing_sand:[C0.1 Integrar equipos de trabajo](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/pdf/C0.1_IntegrarEquiposdeTrabajo_EldenCruz.pdf)
 
-:hourglass_flowing_sand:[C0.2  Tipo de sistema de información](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/pdf/C0.1_IntegrarEquiposdeTrabajo_EldenCruz.pdf)
+:hourglass_flowing_sand:[C0.2  Tipo de sistema de información](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C0.2_Tipo_de_Sistema_Desarrollar_EldenCruz.md)
