@@ -16,3 +16,5 @@
 :hourglass_flowing_sand:[C0.2  Tipo de sistema de información](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C0.2_Tipo_de_Sistema_Desarrollar_EldenCruz.md)
 
 :hourglass_flowing_sand:[C0.3 Diagrama de flujo del proceso](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C0.3_DiagramadeFlujo_Proceso_EldenCruz.md)
+
+:trophy:[A0.1 Recopilación de datos por medio de la entrevista](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A0.1_InterviewConsolidation_EldenCruz.md)
