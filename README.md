@@ -18,3 +18,7 @@
 :hourglass_flowing_sand:[C0.3 Diagrama de flujo del proceso](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C0.3_DiagramadeFlujo_Proceso_EldenCruz.md)
 
 :trophy:[A0.1 Recopilación de datos por medio de la entrevista](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A0.1_InterviewConsolidation_EldenCruz.md)
+
+*Unidad 1*
+
+:hourglass_flowing_sand:[C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio.](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C1.1_ObjetivosGenerales_EldenCruz.md)
