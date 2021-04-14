@@ -24,3 +24,5 @@
 :hourglass_flowing_sand:[C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio.](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C1.1_ObjetivosGenerales_EldenCruz.md)
 
 :hourglass_flowing_sand:[C1.2 Elaboracion del acta constitutiva del proyecto.](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C1.2_ActaConstitutiva_delProyecto_EldenCruz.md)
+
+:hourglass_flowing_sand:[C1.3 Requisitos del sistema para el caso de estudio](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C1.2_ActaConstitutiva_delProyecto_EldenCruz.md)
