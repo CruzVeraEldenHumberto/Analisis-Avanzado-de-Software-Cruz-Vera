@@ -26,3 +26,5 @@
 :hourglass_flowing_sand:[C1.2 Elaboracion del acta constitutiva del proyecto.](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C1.2_ActaConstitutiva_delProyecto_EldenCruz.md)
 
 :hourglass_flowing_sand:[C1.3 Requisitos del sistema para el caso de estudio](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C1.3_Requisitos_del_sistema_EldenCruz.md)
+
+:hourglass_flowing_sand:[C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C1.3_Requisitos_del_sistema_EldenCruz.md)
