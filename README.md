@@ -29,4 +29,4 @@
 
 :hourglass_flowing_sand:[C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C1.4_UML_Casos_de_uso_secuencia_clases_EldenCruz.md)
 
-:trophy:[A1.0 Consolidacion del acta constitutiva](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A0.1_InterviewConsolidation_EldenCruz.md)
+:trophy:[A1.0 Consolidacion del acta constitutiva](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/pdf/A1.0_ConstitutiveAct_EldenCruz.pdf)
