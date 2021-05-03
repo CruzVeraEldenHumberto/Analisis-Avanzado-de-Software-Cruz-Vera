@@ -32,3 +32,5 @@
 :trophy:[A1.0 Consolidacion del acta constitutiva](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/pdf/A1.0_ConstitutiveAct_EldenCruz.pdf)
 
 :hourglass_flowing_sand:[C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C1.5_UML_Estado_componentes_EldenCruz.md)
+
+:trophy:[A1.1 Modelado de requisitos a través de diagramas UML](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/pdf/A1.0_ConstitutiveAct_EldenCruz.pdf)
