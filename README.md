@@ -34,3 +34,7 @@
 :hourglass_flowing_sand:[C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C1.5_UML_Estado_componentes_EldenCruz.md)
 
 :trophy:[A1.1 Modelado de requisitos a través de diagramas UML](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A1.1_RequirementsModelingUML_EldenCruz.md)
+
+*Unidad 2*
+
+:hourglass_flowing_sand:[C2.1 Especificación de Requerimientos Funcionales](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C2.1_EspecificacionRequerimientos_Funcionales_EldenCruz.md)
