@@ -38,3 +38,5 @@
 *Unidad 2*
 
 :hourglass_flowing_sand:[C2.1 Especificación de Requerimientos Funcionales](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C2.1_EspecificacionRequerimientos_Funcionales_EldenCruz.md)
+
+:trophy:[A2.1 Especificación de requisitos y documentación](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A1.1_RequirementsModelingUML_EldenCruz.md)
