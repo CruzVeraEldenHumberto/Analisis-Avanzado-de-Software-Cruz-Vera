@@ -41,4 +41,4 @@
 
 :trophy:[A2.1 Especificación de requisitos y documentación](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A2.1_Documentation%26RequiSpeci_EldenCruz.md)
 
-:trophy:[A2.2 Especificación de requisitos y documentación](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A2.1_Documentation%26RequiSpeci_EldenCruz.md)
+:trophy:[A2.2 Diseño de la arquitectura 4+1](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A2.2_4%2B1ArchitectureModel_EldenCruz.md)
