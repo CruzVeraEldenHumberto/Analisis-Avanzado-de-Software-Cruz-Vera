@@ -40,3 +40,5 @@
 :hourglass_flowing_sand:[C2.1 Especificación de Requerimientos Funcionales](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/C2.1_EspecificacionRequerimientos_Funcionales_EldenCruz.md)
 
 :trophy:[A2.1 Especificación de requisitos y documentación](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A2.1_Documentation%26RequiSpeci_EldenCruz.md)
+
+:trophy:[A2.2 Especificación de requisitos y documentación](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A2.1_Documentation%26RequiSpeci_EldenCruz.md)
