@@ -43,4 +43,4 @@
 
 :trophy:[A2.2 Diseño de la arquitectura 4+1](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A2.2_4%2B1ArchitectureModel_EldenCruz.md)
 
-:trophy:[A2.3 Patrones de arquitectura de software](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A2.2_4%2B1ArchitectureModel_EldenCruz.md)
+:trophy:[A2.3 Patrones de arquitectura de software](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A2.3_ArchitecturePatterns_EldenCruz.md)
