@@ -47,4 +47,4 @@
 
 *Unidad 3*
 
-:trophy:[A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A2.3_ArchitecturePatterns_EldenCruz.md)
+:trophy:[A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/pdf/A3.1_ProjectVision.pdf)
