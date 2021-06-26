@@ -47,11 +47,11 @@
 
 *Unidad 3*
 
-:trophy:[A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/pdf/A3.1_ProjectVision.pdf)
+:trophy:[A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A3.1_StartPhase-Scrum_EldenCruz.md)
 
-:trophy:[A3.2 Fase inicio: Artefactos](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/pdf/A3.2_InitalPhase-Artefacts_EldenCruz.pdf)
+:trophy:[A3.2 Fase inicio: Artefactos](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A3.2_InitalPhase-Artefacts_EldenCruz.md)
 
-:trophy:[A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/pdf/A3.3_ArquitectureWithC4Model_EldenCruz.pdf)
+:trophy:[A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A3.3_ArquitectureWithC4Model_EldenCruz.md)
 
-:trophy:[A3.4 Fase planificacion y estimacion: Artefactos](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/pdf/A3.3_ArquitectureWithC4Model_EldenCruz.pdf)
+:trophy:[A3.4 Fase planificacion y estimacion: Artefactos](https://github.com/CruzVeraEldenHumberto/Analisis-Avanzado-de-Software-Cruz-Vera/blob/master/blog/A3.4_EstimationPlanification-Artefacts_EldenCruz.md)
 
